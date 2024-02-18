@@ -1,0 +1,2 @@
+C:\Users\rahee\source\repos\reactspalocal\reactspalocal\obj\Debug\reactspalocal.esproj.SuggestedBindingRedirects.cache
+C:\Users\rahee\source\repos\reactspalocal\reactspalocal\obj\Debug\reactspalocal.esproj.CoreCompileInputs.cache
