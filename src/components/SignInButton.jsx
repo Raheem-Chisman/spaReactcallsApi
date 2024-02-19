@@ -14,7 +14,7 @@ export const SignInButton = () => {
     const { instance } = useMsal();
 
     const handleLogin = (loginType) => {
-        if (loginType == "popup") {
+        if (loginType === "popup") {
             instance.loginPopup(loginRequest).catch((e) => {
                 console.log(e);
             });
